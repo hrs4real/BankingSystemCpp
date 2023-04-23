@@ -8,7 +8,7 @@ The project Should have below Functionalities-
 
 Open an account - The program will ask the user for basic details like Name, Mobile, and Pin Number(4 digits)  and the system will give the user an account number once the account is created. At the time of account creation, the balance will be 0.
 
-Show account details - The user will have the facility to check his/her account details by entering his/her Account number and Security Pin
+Show account details - The user will have the facility to check his/her account details by entering his/her Account number.
     
 Deposit- The user will have the facility to deposit some amount in his bank account, Program will ask the user for his account number and PIN number, if it matches, then the user can deposit the amount.
     
