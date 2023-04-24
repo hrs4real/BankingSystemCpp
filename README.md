@@ -16,3 +16,7 @@ Withdraw-  The user will have the facility to Withdraw some amount from his bank
 
 Edit and exit - The user will have the facility to modify his account details and delete his bank account.
 
+
+
+OUTPUT: https://streamable.com/88ho0z
+
